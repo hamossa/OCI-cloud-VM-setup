@@ -32,13 +32,13 @@ Everything else can be left at default settings.
 
 We'll go into the OCI dashboard and reserve a public IP address for our VM.
 
-![txt](image.png)
+![txt](images/image.png)
 
 We can then come back to the instance's VNIC setting and assign that IP address to the alpha instance.
 
 Now the Public IP address will not change after we shut down the VM.
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 ## Login into the VM
 
